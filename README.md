@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cangzihan
 - 👀 I’m interested in painting
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on deep learning
+- 🌱 I’m currently learning computer vision, deep learning and Japanese
+- 💞️ I’m looking to collaborate on AI Painting
 - 📫 How to reach me cangzihan@gmail.com
 
 <!---
